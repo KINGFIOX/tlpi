@@ -16,7 +16,7 @@ int main(int argc, char* argv[])
         errExit("open64");
     }
 
-    // a
+    // atoll 将 str 转化为 long long
     off = atoll(argv[2]);
 
     if (lseek64(fd, off, SEEK_SET) == -1) {
