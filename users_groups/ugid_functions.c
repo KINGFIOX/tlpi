@@ -1,9 +1,4 @@
-#include <ctype.h>
-#include <grp.h>
-#include <pwd.h>
-#include <stdlib.h>
-#include <sys/types.h>
-#include <unistd.h>
+#include "ugid_functions.h"
 
 // 返回 group 的用户
 char* userNameFromId(uid_t uid)
