@@ -1,2 +1,0 @@
-/workspaces/cpp/tlpi/build/CMakeFiles/rebuild_cache.dir
-/workspaces/cpp/tlpi/build/CMakeFiles/edit_cache.dir
