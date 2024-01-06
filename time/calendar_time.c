@@ -1,4 +1,4 @@
-#include "../lib/tlpi_hdr.h"
+#include "tlpi_hdr.h"
 #include <locale.h>
 #include <stdio.h>
 #include <sys/time.h>
